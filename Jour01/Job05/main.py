@@ -9,7 +9,6 @@ class Animal:
     def nommer(self, nom):
         self.prenom = nom
 
-
 # Instanciation d'un objet Animal
 animal = Animal()
 
