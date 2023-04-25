@@ -40,6 +40,5 @@ ma_moto = Moto("Yamaha Vmax", 1987, 4500)
 ma_voiture.informationsVehicule()
 ma_moto.informationsVehicule()
 
-# Démarrer les véhicules
 ma_voiture.demarrer()
 ma_moto.demarrer()
