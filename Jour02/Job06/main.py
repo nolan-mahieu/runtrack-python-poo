@@ -34,11 +34,9 @@ class Moto(Vehicule):
     def demarrer(self):
         print("Attention, la moto roule")
 
-# Instanciation des objets
 ma_voiture = Voiture("Mercedes classe A", 2020, 18500)
 ma_moto = Moto("Yamaha Vmax", 1987, 4500)
 
-# Appel des méthodes
 ma_voiture.informationsVehicule()
 ma_moto.informationsVehicule()
 
